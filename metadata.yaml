@@ -1,0 +1,44 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-10--13-Prince-Otto-Von-B__13056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+tableOfContents: 'Bismarck as a National Type. By Kuno Francke. -- The Love Letters
+  of Bismarck. -- Correspondence of William I. and Bismarck. -- From "Thoughts and
+  Recollections." -- Bismarck as an Orator. By Edmund von Mach. -- Bismarck: Professorial
+  Politics -- Speech from the Throne -- Alsace-Lorraine a Glacis Against France --
+  We Shall Never Go to Canossa! -- Bismarck as the "Honest Broker" -- Salus Publica--Bismarck''s
+  Only Lode-Star -- Practical Christianity -- We Germans Fear God, and Nought Else
+  in the World -- Mount the Guards at the Warthe and the Vistula! -- Long Live the
+  Emperor and the Empire! -- The Life of Moltke. By Karl Detlev Jessen. -- von Moltke:
+  The Political and Military Conditions of the Ottoman Empire in 1836. -- A Trip to
+  Brussa. -- A Journey to Mossul. -- A Bullfight in Spain. -- Description of Moscow.
+  -- The Peace Movement. -- Fighting on the Frontier. -- Battle of Gravelotte--St.
+  Privat. -- Consolatory Thoughts on the Earthly Life and a Future Existence. -- The
+  Life and Work of Ferdinand Lassalle. By Arthur N. Holcombe. -- Lassalle: The Workingmen''s
+  Programme. -- Science and the Workingmen. -- Open Letter to the Central Committee.'
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 10\r\
+  \nPrince Otto Von Bismarck, Count Helmuth Von Moltke, Ferdinand Lassalle"
+url: http://www.gutenberg.org/ebooks/13056
